@@ -76,7 +76,9 @@
   }
 }
 
-
+h1{
+  font-style: oblique;
+}
 
 #portfolio{
   margin-top: 170px;
@@ -97,7 +99,38 @@
 }
 
 
+.inscripcion{
+  text-align: center;
+  color: whitesmoke;
+}
 
+.hr{
+  color: whitesmoke;
+  margin-top: 80px;
+}
+
+
+.cat1{
+  margin-top: 80px;
+}
+
+.cat2{
+  margin-top: 80px;
+}
+
+.cat3{
+  margin-top: 80px;
+}
+
+
+.parrafo{
+  font-size: 18px;
+}
+
+
+.informacion{
+  margin-top: 80px;
+}
 
 body {
   margin: 0;
