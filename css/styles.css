@@ -81,7 +81,7 @@ h1{
 }
 
 #portfolio{
-  margin-top: 170px;
+  margin-top: 190px;
 }
 
 
@@ -91,6 +91,7 @@ h1{
 
 
 .edicion{
+  margin-top: -150px;
   color: whitesmoke;
 }
 
@@ -128,8 +129,23 @@ h1{
 }
 
 
+.imagenHeader{
+  margin-top: -180px;
+  padding-left: 200px;
+  width: 1800px;
+}
+
+.parrafoGaleria{
+  font-family: 'Roboto', sans-serif;
+}
+
 .informacion{
   margin-top: 80px;
+}
+
+.img{
+  width: 80vh;
+  
 }
 
 body {
